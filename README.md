@@ -1,4 +1,4 @@
-## Galaxy Save Region Converter v1.1.1
+## Super Mario Galaxy 1 & 2 Save File Region Converter v1.1.1
 
 A simple Windows tool for converting Super Mario Galaxy 1 and Super Mario Galaxy 2 Wii save files between regions.
 
